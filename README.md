@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Chittra Kumari</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chittrakumari&label=Profile%20views&color=0e75b6&style=flat" alt="chittrakumari" /> </p>
 
-- 🔭 I’m currently working on **Flutter,Web Development ,Data Structures and Algorithms in Java ,AWS**
+- 🔭 I’m currently working on **Flutter,Web Development ,Data Structures and Algorithms in Java ,Mobile App Development with React-Native ,AWS**
 
 - 😄 Pronouns: **She/Her**
 
-- 👯 I’m looking to collaborate on **projects using Flutter,Web Development,AWS.**
+- 👯 I’m looking to collaborate on **projects using Flutter,Web Development,AWS,Mobile App Development using React-Native.**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms in Java.**
 
