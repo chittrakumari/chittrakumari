@@ -16,7 +16,7 @@
 
 - 📌Hacker Rank Profile [https://www.hackerrank.com/chittra_kumari_1](https://www.hackerrank.com/chittra_kumari_1)
 
-- ⚡ Fun fact **...**
+- 📌LeetCode Profile  [https://leetcode.com/chittrakumari](https://leetcode.com/chittrakumari/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
