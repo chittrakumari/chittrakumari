@@ -20,6 +20,8 @@
 
 - 📌GeeksForGeeks Profile Link [https://auth.geeksforgeeks.org/user/chittrakumaricsccv19/profile](https://auth.geeksforgeeks.org/user/chittrakumaricsccv19/profile)
 
+- 📌CodeChef Profile Link [https://www.codechef.com/users/chittra_1](https://www.codechef.com/users/chittra_1)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chittra-kumari-62236b1a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chittra-kumari-62236b1a5" height="30" width="40" /></a>
