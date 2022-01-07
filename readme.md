@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chittrakumari&label=Profile%20views&color=0e75b6&style=flat" alt="chittrakumari" /> </p>
 
 
-- 🔭 I’m currently working on **Flutter,Web Development ,Data Structures and Algorithms in Java ,React-Native ,AWS.**
+- 🔭 I’m currently working on **Flutter,Web Development ,Data Structures and Algorithms in Java.**
 
 - 😄 Pronouns: **She/Her**
 
-- 👯 I’m looking to collaborate on **projects using Flutter,Web Development,AWS,React-Native.**
+- 👯 I’m looking to collaborate on **projects using Flutter,Web Development.**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms in Java.**
 
@@ -19,8 +19,6 @@
 - 📌LeetCode Profile Link [https://leetcode.com/chittrakumari](https://leetcode.com/chittrakumari/)
 
 - 📌GeeksForGeeks Profile Link [https://auth.geeksforgeeks.org/user/chittrakumaricsccv19/profile](https://auth.geeksforgeeks.org/user/chittrakumaricsccv19/profile)
-
-- 📌CodeChef Profile Link [https://www.codechef.com/users/chittra_1](https://www.codechef.com/users/chittra_1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
