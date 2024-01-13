@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **...**
 
-- 📫 How to reach me **chittra.kumari_cs.ccv19@gla.ac.in**
+- 📫 How to reach me **chittrakumari18@gmail.com**
 
 - 📌Hacker Rank Profile [https://www.hackerrank.com/chittra_kumari_1](https://www.hackerrank.com/chittra_kumari_1)
 
