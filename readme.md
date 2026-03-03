@@ -16,7 +16,7 @@
 
 - 📌Hacker Rank Profile [https://www.hackerrank.com/chittra_kumari_1](https://www.hackerrank.com/chittra_kumari_1)
 
-- 📌LeetCode Profile Link [https://leetcode.com/chittrakumari](https://leetcode.com/chittrakumari/)
+- 📌LeetCode Profile Link [https://leetcode.com/chittrakumari](https://leetcode.com/u/chittra_kumari/)
 
 - 📌GeeksForGeeks Profile Link [https://auth.geeksforgeeks.org/user/chittrakumaricsccv19/profile](https://auth.geeksforgeeks.org/user/chittrakumaricsccv19/profile)
 
