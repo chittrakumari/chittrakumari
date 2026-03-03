@@ -2,23 +2,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chittrakumari&label=Profile%20views&color=0e75b6&style=flat" alt="chittrakumari" /> </p>
 
 
-- 🔭 I’m currently working on **Flutter,Web Development ,Data Structures and Algorithms in Java.**
+- 🔭 I’m currently working on **System Design,Spring Boot,Microservices,JPA/Hibernate,Distribiuted Systems.**
 
 - 😄 Pronouns: **She/Her**
 
 - 👯 I’m looking to collaborate on **projects using Flutter,Web Development.**
 
-- 🤝 I’m looking for help with **Data Structures and Algorithms in Java.**
+- 🤝 I’m looking for help with **KAFKA**
 
 - 💬 Ask me about **...**
 
 - 📫 How to reach me **chittrakumari18@gmail.com**
 
-- 📌Hacker Rank Profile [https://www.hackerrank.com/chittra_kumari_1](https://www.hackerrank.com/chittra_kumari_1)
-
-- 📌LeetCode Profile Link [https://leetcode.com/chittrakumari](https://leetcode.com/u/chittra_kumari/)
+- - 📌LeetCode Profile Link [https://leetcode.com/chittrakumari](https://leetcode.com/u/chittra_kumari/)
 
 - 📌GeeksForGeeks Profile Link [https://auth.geeksforgeeks.org/user/chittrakumaricsccv19/profile](https://auth.geeksforgeeks.org/user/chittrakumaricsccv19/profile)
+
+- 📌Hacker Rank Profile [https://www.hackerrank.com/chittra_kumari_1](https://www.hackerrank.com/profile/_chittrakumari)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
