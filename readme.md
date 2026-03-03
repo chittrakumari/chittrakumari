@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **chittrakumari18@gmail.com**
 
-- - 📌LeetCode Profile Link [https://leetcode.com/chittrakumari](https://leetcode.com/u/chittra_kumari/)
+-  📌LeetCode Profile Link [https://leetcode.com/chittrakumari](https://leetcode.com/u/chittra_kumari/)
 
 - 📌GeeksForGeeks Profile Link [https://auth.geeksforgeeks.org/user/chittrakumaricsccv19/profile](https://auth.geeksforgeeks.org/user/chittrakumaricsccv19/profile)
 
