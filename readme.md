@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: **She/Her**
 
-- 👯 I’m looking to collaborate on **projects using Flutter,Web Development.**
+- 👯 I’m looking to collaborate on **Spring Boot.**
 
 - 🤝 I’m looking for help with **KAFKA**
 
